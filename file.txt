@@ -1,10 +1,12 @@
 ipe data important here
 text add
-again add
 some content
 data 
 today 
 tommorow
 alive 
 dead
-
+tajmahal
+kutub minar
+D
+char minar
